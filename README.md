@@ -1,1 +1,1 @@
-# Improvement-of-Low-Dose-CT-diagnosis-prediction-based-self-supervised-denoisin
+# Improvement-of-Low-Dose-CT-diagnosis-prediction-based-self-supervised-denoising
